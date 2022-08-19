@@ -1,6 +1,6 @@
 ## Olá... Seja bem vindo(a) 😎
 
-user-images.githubusercontent.com/98066667/185515911-068a440e-79d4-4a52-9dca-105d9beebb03.jpeg
+![WhatsApp Image 2022-08-18 at 21 09 18](https://user-images.githubusercontent.com/98066667/185516007-b10c6f58-1951-4ce5-862c-7776b2a87de1.jpeg)
                                                                                                                      
 ## Sobre 
 - 👔 Estou cursando Análise e Desenvolvimento de sistema na Cruzeiro do sul. 
