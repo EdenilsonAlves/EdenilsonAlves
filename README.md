@@ -1,6 +1,6 @@
 ## Olá... Seja bem vindo(a) 😎
 
-![3a7c3e6f-c986-4977-bc67-d4d2d5e612c1](https://user-images.githubusercontent.com/98066667/185515492-47a66533-6cdf-4ad4-abf9-6480b142f73f.jpg)
+https://user-images.githubusercontent.com/98066667/185515841-fa916eee-5e99-4f06-b60b-23d272e588ba.jpeg
                                                                                                                      
 ## Sobre 
 - 👔 Estou cursando Análise e Desenvolvimento de sistema na Cruzeiro do sul. 
