@@ -1,5 +1,5 @@
 ## Olá... Seja bem vindo(a) 😎
-![WhatsApp Image 2022-08-19 at 21 55 18](https://user-images.githubusercontent.com/98066667/185723169-fea417e1-d30f-4a35-be64-00e999f5ab82.jpeg)
+<img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/98066667/185723169-fea417e1-d30f-4a35-be64-00e999f5ab82.jpeg" width=350px; >
                                                                                                                      
 ## Sobre 
 - 👔 Estou cursando Análise e Desenvolvimento de sistema.
@@ -29,6 +29,7 @@
 ![Edenilson Alves](https://github-readme-stats.vercel.app/api?username=EdenilsonAlves&show_icons=true&theme=tokyonight)
 
 <a href="https://github.com/TheDudeThatCode">
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdenilsonAlves" />
 </a><br>
 
@@ -38,11 +39,6 @@
 
 <br>
 
-<div> 
-  <a href="https://wa.me/5511931446801" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:edenilsonrafael2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/edenilson-rafael-17160b210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
