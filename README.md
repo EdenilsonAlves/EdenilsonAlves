@@ -2,8 +2,7 @@
 ![WhatsApp Image 2022-08-19 at 21 55 18](https://user-images.githubusercontent.com/98066667/185723169-fea417e1-d30f-4a35-be64-00e999f5ab82.jpeg)
                                                                                                                      
 ## Sobre 
-- 👔 Estou cursando Análise e Desenvolvimento de sistema na Cruzeiro do sul. 
-- ✔️ Cursei automação com cucucmber,capybara e ruby.
+- 👔 Estou cursando Análise e Desenvolvimento de sistema.
 - 📈  Amo o que faço e busco dar meu melhor e melhorar a cada dia... aprendendo e disseminando conhecimento, adquiridos. 
 
 ## Conhecimentos em:
@@ -14,6 +13,9 @@
 - [X] <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 - [X] <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
 - [X] <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+- [X] <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+- [X] <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"> 
+- [X] <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
 
 ![Edenilson Alves](https://github-readme-stats.vercel.app/api?username=EdenilsonAlves&show_icons=true&theme=tokyonight)
