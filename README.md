@@ -4,6 +4,7 @@
 ## Sobre 
 - 👔 Estou cursando Análise e Desenvolvimento de sistema.
 - 📈  Amo o que faço e busco dar meu melhor e melhorar a cada dia... aprendendo e disseminando conhecimento, adquiridos. 
+- ✔️  Estou atuando no squad de Backoffice Ammo(aplicação “web”, utilizando Cypress e TypeScript).
 
 ### Contato
 
