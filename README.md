@@ -2,7 +2,7 @@
 <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/98066667/185723169-fea417e1-d30f-4a35-be64-00e999f5ab82.jpeg" width=350px; >
                                                                                                                      
 ## Sobre 
-- 👔 Estou cursando Análise e Desenvolvimento de sistema.
+- 👔  Formado em analise desenvolvimento de sistema.
 - 📈  Amo o que faço e busco dar meu melhor e melhorar a cada dia... aprendendo e disseminando conhecimento, adquiridos. 
 - ✔️  Estou atuando no squad de Backoffice Ammo(aplicação “web”, utilizando Cypress e TypeScript).
 
